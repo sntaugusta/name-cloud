@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "Metropolis-Black";
+  src: local("Metropolis-Black"),
+    url("../font/Metropolis-Black.otf") format("opentype");
+}
